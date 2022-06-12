@@ -1,4 +1,5 @@
-# HWorkSQL2
+ HWork SQL2
+ ```sql
  CREATE TABLE IF NOT EXISTS performer (
 	id SERIAL PRIMARY KEY,
 	name VARCHAR(100) NOT NULL,
