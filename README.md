@@ -1,5 +1,5 @@
 
- ![](https://github.com/Suhogruzz/HWorkSQL2/blob/main/SQL_HWork1.png)
+ ![](https://github.com/Suhogruzz/HWorkSQL2/blob/main/SQL_HWork1.jpg)
 
  ```sql
  CREATE TABLE IF NOT EXISTS performer (
