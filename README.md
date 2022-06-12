@@ -1,6 +1,6 @@
- Схема БД
+ ##Схема БД
  ![](https://github.com/Suhogruzz/HWorkSQL2/blob/main/SQL_HWork1.png)
- HWork SQL2
+ ##HWork SQL2
  ```sql
  CREATE TABLE IF NOT EXISTS performer (
 	id SERIAL PRIMARY KEY,
